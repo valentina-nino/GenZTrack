@@ -17,32 +17,20 @@ Implementación completa del algoritmo genético.
 Análisis de complejidad.
 
 # Componentes Principales
-Individuo
+Individuo: Representa una solución candidata.
 
-Representa una solución candidata.
+Fitness: Evalúa qué tan buena es una solución.
 
-Fitness
+Selección: Escoge los mejores individuos.
 
-Evalúa qué tan buena es una solución.
+Crossover: Combina información genética.
 
-Selección
+Mutación: Introduce variabilidad.
 
-Escoge los mejores individuos.
-
-Crossover
-
-Combina información genética.
-
-Mutación
-
-Introduce variabilidad.
-
-# 4. Función Objetivo
+# Función Objetivo
 
 El algoritmo busca maximizar:
 
 f(x)=xsin(10πx)+1
-
-
 
 Esta función posee múltiples máximos y mínimos locales, lo que la convierte en un excelente problema de optimización.
