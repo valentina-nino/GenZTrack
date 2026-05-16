@@ -1,4 +1,4 @@
-# GenZTrack
+# GenVisionZ
 Los algoritmos genéticos son técnicas de optimización inspiradas en los principios de la evolución biológica y la selección natural. Estos algoritmos utilizan poblaciones de soluciones candidatas que evolucionan a través de operadores genéticos como selección, crossover y mutación.
 
 En este proyecto se implementa un algoritmo genético completo en Python capaz de encontrar el máximo de una función matemática no lineal:
